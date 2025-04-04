@@ -3794,6 +3794,33 @@
         "userTesting",
         "video"
       ]
+    },
+{
+      "login": "sultanovich",
+      "name": "Pablo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/601474?v=4",
+      "profile": "https://github.com/sultanovich",
+      "contributions": [
+        "question",
+        "blog",
+        "bug",
+        "code",
+        "doc",
+        "infra",
+        "maintenance",
+        "mentoring",
+        "review",
+        "security"
+      ]
+    },
+    {
+      "login": "ValLee4",
+      "name": "ValLee4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/160675803?v=4",
+      "profile": "https://github.com/ValLee4",
+      "contributions": [
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 7,
